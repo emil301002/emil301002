@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emil301002, currently studying Psychology at the UNiversity of Edinburgh
+- 👋 Hi, I’m @emil301002, currently studying Psychology at the University of Edinburgh
 - 👀 I’m interested in pursuing a career in data science/data analytics
 - 🌱 Currently, I am learning SQL and Python on my own spare time whereas my work in R has been through my university courses in Psychology.
 - Will be posting up some of my projects in the future to showcase my skills in all 3 programming languages. :)
